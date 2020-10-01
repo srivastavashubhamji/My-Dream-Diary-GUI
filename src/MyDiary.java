@@ -792,8 +792,8 @@ public class MyDiary extends JFrame {
                     "\t       ====================================\n"+
                     "\t                                           Feedback \n"+
                     "\t       ====================================\n"+
-                    "\t       Contact us :                                                 8601725056\n"+
-                    "\t       shubhsrivastava271999@gmail.com         Shubham Sri.\n";                    
+                    "\t       Contact us :                                                 8601725556\n"+
+                    "\t       shubhsrivastav271999@gmail.com         Shubham Sri.\n";                    
             txtAboutUs.setText(msg);        
     }                                        
 
